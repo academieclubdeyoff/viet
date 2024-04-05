@@ -368,7 +368,7 @@ a {
    Newsletter section              
 -----------------------------------------*/
 #newsletter {
-    background: url('../images/logoo.JPG') 20% 0 repeat-y fixed;
+    background: url('../images/logoo.jpg') 20% 0 repeat-y fixed;
     background-size: cover;
     background-position: center center;
     color: #F1C40F ;
@@ -430,7 +430,7 @@ a {
 }
 
 #blog .blog-thumb:hover {
-  background: url('../images/5.JPG');
+  background: url('../images/5.jpg');
    -webkit-background-size: cover;
   background-size: cover;
   background-position: center center;
@@ -631,7 +631,7 @@ a {
     Price section              
 -----------------------------------------*/
 #price {
-  background: url('../images/13.JPG') 50% 0 repeat-y fixed;
+  background: url('../images/13.jpg') 50% 0 repeat-y fixed;
     -webkit-background-size: cover;
     background-size: cover;
     background-position: center center;
@@ -1004,5 +1004,4 @@ footer .copyright-text {
   }
 
 }
-
 
