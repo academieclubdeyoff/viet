@@ -78,12 +78,12 @@ $(document).ready(function() {
   $(function(){
     jQuery(document).ready(function() {
     $('#home').backstretch([
-       "images/1.JPG",
-       "images/2.JPG",
-       "images/3.JPG",
-       "images/4.JPG",
-       "images/5.JPG",
-       "images/6.JPG",
+       "images/1.jpg",
+       "images/2.jpg",
+       "images/3.jpg",
+       "images/4.jpg",
+       "images/5.jpg",
+       "images/6.jpg",
      
        
         ],  {duration: 2000, fade: 750});
@@ -111,4 +111,3 @@ $(document).ready(function() {
   new WOW({ mobile: false }).init();
 
   });
-
